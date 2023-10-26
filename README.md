@@ -2,4 +2,4 @@
 
 ## Victor Icoma [Líder de Carreiras e Desenvolvedor Web Full Stack]##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoricoma&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoricoma-soulcode&show_icons=true&theme=radical)
