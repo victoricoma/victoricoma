@@ -3,7 +3,7 @@
 ## Victor Icoma [Líder de Carreiras e Desenvolvedor Web Full Stack]
 ## Victor Icoma [Head de Arquitetura de Softwares]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoricoma&show_icons=true&theme=radical)
-<table>
+<table style="border: 0;">
  <tr>
   <td>
    <img width="200" height="200" alt="Cloud Developing AWS" src="https://github.com/user-attachments/assets/45359cc8-7ae3-4011-801d-14767c9f3388" />
