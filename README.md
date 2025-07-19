@@ -6,10 +6,10 @@
 <table>
  <tr>
   <td>
-![AWS Badge Machine Learning](https://github.com/user-attachments/assets/b8054486-bc1c-4e29-b20f-b3ee607c97af)
+   <img width="600" height="600" alt="Cloud Developing AWS" src="https://github.com/user-attachments/assets/45359cc8-7ae3-4011-801d-14767c9f3388" />
   </td>
   <td>
-   ![AWS Clou Developing](https://github.com/user-attachments/assets/9f095d6d-38f5-4751-9a89-7dc67e17d50a)
+   <img width="600" height="600" alt="Machine Laening AWS" src="https://github.com/user-attachments/assets/fd819308-0d71-409d-b3b3-97631b4a3210" />
   </td>
  </tr>
 </table>
