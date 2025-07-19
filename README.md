@@ -3,4 +3,4 @@
 ## Victor Icoma [Head de Arquitetura de Softwares]
 
  ![AWS Badge Machine Learning](https://github.com/user-attachments/assets/b8054486-bc1c-4e29-b20f-b3ee607c97af)
-
+![AWS Cloud Developing](https://www.credly.com/badges/4eb648bb-dd80-49a8-9362-5879c50fae01/public_url)
