@@ -11,8 +11,8 @@
   <td>
    <img width="200" height="200" alt="Machine Laening AWS" src="https://github.com/user-attachments/assets/fd819308-0d71-409d-b3b3-97631b4a3210" />
   </td>
+    <td>
+   <img width="200" height="200" alt="Web Builder AWS" src="https://github.com/user-attachments/assets/37952709-3b6e-4ddb-a82f-1ccfd0c15620" />
+  </td>
  </tr>
 </table>
-
-
- 
